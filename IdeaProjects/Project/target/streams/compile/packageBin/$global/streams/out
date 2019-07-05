@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/IdeaProjects/Project/target/scala-2.13/project_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/Project/target/scala-2.13/classes/User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	package1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/Project/target/scala-2.13/classes/package1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	package1/DBConnect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/Project/target/scala-2.13/classes/package1/DBConnect.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
